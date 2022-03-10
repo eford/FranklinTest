@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Data Science Applications to Exoplanets  ]]>
+    </title>
+    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <description>
+      <![CDATA[  Astro 497, Fall 2022, Penn State  ]]>
+    </description>
+    <atom:link
+      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Labs  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/labs/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/labs/index.html </guid>
+  <description>
+    <![CDATA[  Map to Labs  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Topics  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/topics/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/topics/index.html </guid>
+  <description>
+    <![CDATA[  Outline of high-level topics  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Course Information  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/index.html </guid>
+  <description>
+    <![CDATA[  Map to course information  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Readings  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/readings/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/readings/index.html </guid>
+  <description>
+    <![CDATA[  Readings  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Basic Course Information  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/basic_info/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/basic_info/index.html </guid>
+  <description>
+    <![CDATA[  Essential course information  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Prerequisites  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/prep/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/prep/index.html </guid>
+  <description>
+    <![CDATA[  Blah  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Goals &amp; Objectives  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/goals/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/goals/index.html </guid>
+  <description>
+    <![CDATA[  Map to course information  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Assessed Work  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/syllabus/assignments/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/syllabus/assignments/index.html </guid>
+  <description>
+    <![CDATA[  Overview of course assignments  ]]>
+  </description>  
+    
+  <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  More goodies  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/menu2/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/menu2/index.html </guid>
+  <description>
+    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg" alt="" />  ]]>
+  </description>  
+    
+  <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Code blocks  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/menu1/index.html </guid>
+  <description>
+    <![CDATA[  A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; you can use basic markdown here but the whole description string must be a single line &#40;not a multiline string&#41;. Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don&#39;t expect maths or fancy styling to work; images should be ok though: <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" alt="" />  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Eric B. Ford</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
